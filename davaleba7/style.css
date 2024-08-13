@@ -1,0 +1,261 @@
+header {
+  /* background-color: rgb(22, 16, 16); */
+  background-color: black;
+  height: 80px;
+  width: 100%;
+  text-align: center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 30px;
+  display: inline-block;
+}
+
+a:hover {
+  background-color: rgb(174, 179, 179);
+}
+
+
+.firstparagraph {
+  background-color: rgb(212, 23, 23);
+  width: 100%;
+  height: 650px;
+  text-align: center;
+}
+
+.firstp {
+  color: white;
+  font-family: cursive;
+  font-size: 17px;
+  padding: 20px;
+}
+
+.firstp:hover {
+  font-size: 20px;
+  color: blue;
+}
+
+.headerh1 {
+  float: left;
+  color: white;
+  margin-left: 20px;
+
+}
+
+.firstpimg {
+  width: 50%;
+  height: 300px;
+  margin: 20px;
+  border-radius: 20%;
+
+}
+
+
+
+.tablee {
+  position: sticky;
+  text-align: center;
+  margin-left: 400px;
+  margin-top: 20px;
+  border: 2px solid;
+  border-collapse: collapse;
+  width: 400px;
+  height: 180px;
+
+}
+
+.tr1 {
+  background-color: rgb(134, 4, 30);
+}
+
+.tr2 {
+  background-color: white;
+}
+
+.tr1:hover {
+  cursor: pointer;
+  background-color: white;
+  transition: 0.5s;
+}
+
+.tr2:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  transition: 0.4s;
+}
+
+
+.secondparagraph {
+  background-color: bisque;
+
+  width: 100%;
+  height: 800px;
+  text-align: center;
+}
+
+
+.secondp {
+  color: black;
+  font-family: cursive;
+  font-size: 17px;
+  padding: 20px;
+}
+
+.secondp:hover {
+  color: black;
+  font-size: 20px;
+}
+
+
+.table {
+  position: sticky;
+  text-align: center;
+  margin-left: 400px;
+  margin-top: 20px;
+  border: 2px solid;
+  border-collapse: collapse;
+  width: 400px;
+  height: 180px;
+}
+
+
+
+.tr3 {
+  background-color: rgb(131, 226, 43);
+}
+
+
+
+.tr4 {
+  background-color: blueviolet;
+}
+
+.tr3:hover {
+  cursor: pointer;
+  background-color: blue;
+  transition: 0.5s;
+}
+
+
+.tr4:hover {
+  cursor: pointer;
+  background-color: orangered;
+  color: white;
+  transition: 0.4s;
+}
+
+
+.icon {
+  width: 33%;
+  text-align: left;
+  background-color: black;
+  position: fixed;
+}
+
+
+.fa-facebook-f {
+  color: rgb(0, 0, 248);
+  font-size: 50px;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+
+
+
+.seconddiv {
+  text-align: center;
+}
+
+
+.icons-div {
+  width: 25%;
+  position: fixed;
+  height: 10%;
+  top: 28%;
+}
+
+
+.icons-div2 {
+  width: 25%;
+  height: 10%;
+  position: fixed;
+  top: 35%;
+  left: 1%;
+}
+
+.icons-div3 {
+  width: 25%;
+  height: 10%;
+  position: fixed;
+  top: 42%;
+  left: 1%;
+}
+
+
+#email {
+  width: 400px;
+  height: 30px;
+  text-align: center;
+  font-size: 18px;
+  font-family: Roboto, sans-serif;
+  position: absolute;
+  left: 450px;
+  bottom: 100px;
+}
+
+.sub {
+  position: absolute;
+  font-size: 17px;
+  left: 45%;
+  bottom: 15%;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: rgb(73, 69, 69);
+  color: white;
+  border-color: white;
+}
+
+.sub:hover {
+  cursor: pointer;
+  transition: 0.4s;
+  background-color: antiquewhite;
+  box-shadow: 5px 5px 6px red;
+  color: black;
+}
+
+.footera {
+  color: white;
+  letter-spacing: 1px;
+}
+
+
+.footerdiv {
+  background-color: rgb(73, 69, 69);
+  width: 100%;
+  height: 250px;
+  position: absolute;
+  top: 1500px;
+
+
+}
+
+
+.footerdiv2 {
+  text-align: left;
+  font-size: 18px;
+  padding-top: 30px;
+  padding-left: 25px;
+}
+
+.bottomp {
+  color: white;
+  position: absolute;
+  left: 47%;
+  bottom: 67%;
+}
